@@ -29,7 +29,7 @@ two vectors as a general matrix $X_t \in \mathbb{R}^{m \times 2}$, the above def
 ### Fundamental relationship to add to the model 
 
 Based on suggestions from Dr. Qi, the fundamental relationship between traffic volume and speed could be incorporated into the loss function of the deep learning model, instead of
-adding an extra relationship variable in the problem definition. It is also pointed out that the combined loss function should be differentiable. It would be a problem if the loss
+adding an extra relationship variable in the problem definition. The way we utilise the relationship could be adding insights into the model training, rather than modifying the general problem statement. It is also pointed out that the combined loss function should be differentiable. It would be a problem if the loss
 function with the fundamental relatinship equations involved is not differentiable. 
 
 ### Potential issues with the volume data
