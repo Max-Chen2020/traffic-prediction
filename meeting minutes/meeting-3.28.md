@@ -52,3 +52,5 @@ together at some stage to obtain the final result. A meeting with Dr. Gong might
 
 ## Conclusion
 - Dr. Zhang and Dr. Qi have provided valuable suggestions on general research directions and implementation details, which is valuable and greatly appreciated.  
+- More work and brainstorming are needed in the spatial information (layer extraction, directions of links, proximity or connectivity matrix, etc.) and model design part respectively. 
+- The ideas are still in an early stage and much more details are to be added. 
