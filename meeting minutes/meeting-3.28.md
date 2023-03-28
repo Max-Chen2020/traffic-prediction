@@ -36,7 +36,7 @@ function with the fundamental relatinship equations involved is not differentiab
 
 Previous literature mostly considers the overall volume of intersections/roads instead of counting different lanes in different directions separately. This would not be a problem when the variable of concern is
 only speed on highway but would be problematic when it comes to volumes in complex road networks. Blending volumes in different directions of lanes would make
-the forecasting results less indicative, as well as weakening the relationship between speed and volume. 
+the forecasting results less indicative, as well as weakening the effectiveness of leveraging relationship between speed and volume. 
 
 ### Research design 
 
