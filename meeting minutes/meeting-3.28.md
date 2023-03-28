@@ -24,7 +24,7 @@ the new problem could be formulated as follows:
 $$ f([X_{t-n}, ..., X_{t-1}, X_t], [Z_{t-n}, ..., Z_{t-1}, Z_t], G) = ([X_t, X_{t+1} ... X_{t+n}], [Z_t, Z_{t+1} ... Z_{t+n}]) $$ 
 
 where $X_t \in \mathbb{R}^{m \times 1}$ and $Z_t \in \mathbb{R}^{m \times 1}$ are volume and speed vectors at different locations and G is the road network information. We can of course combine the
-two vectors as a matrix generally as $X_t \in \mathbb{R}^{m \times 2}$, the above definition just emphasizes the difference between our approach and the traditional ones. 
+two vectors as a general matrix $X_t \in \mathbb{R}^{m \times 2}$, the above definition just emphasizes the difference between our approach and the traditional ones. 
 
 ### Fundamental relationship to add to the model 
 
