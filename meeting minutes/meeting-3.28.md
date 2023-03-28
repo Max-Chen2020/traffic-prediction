@@ -4,7 +4,9 @@
 
 **Time:** 2 - 3pm, 3 - 3:30pm
 
-**Location and Supervisors:** Melbourne Connect 2101 with Dr. Lele Zhang and Dr. Tingjing Chu, Zoom Online with Dr. Jianzhong Qi 
+**Location and Supervisors:** 
+- Melbourne Connect 2101 with Dr. Lele Zhang and Dr. Tingjing Chu, 
+- Zoom Online with Dr. Jianzhong Qi 
 
 ## Agenda
 
