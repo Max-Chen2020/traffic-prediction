@@ -42,7 +42,7 @@ the forecasting results less indicative, as well as weakening the effectiveness 
 
 There are two simple ways to approach the problem. The first one is to feed all the data (including speed, volume, and spacial information) directly into one model
 and output a matrix containing the predicted information regarding the two variables. The other one is to feed speed and volume data separately and fuse the two
-together at some stage to obtain the final result. A meeting with Dr. Gong might be needed to discuss about the detailed model architecture design. 
+together at some stage to obtain the final result. A meeting with Dr. Gong might be needed to discuss about the detailed model architecture design. For the purpose of writing a good research proposal, it is important to come up with some ideas about model design. 
 
 ## Next Steps
 - Learn to use QGIS to extract layer information, and investigate into the connectivity and proximity between nodes and links
