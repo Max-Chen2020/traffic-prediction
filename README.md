@@ -10,7 +10,7 @@ This repository is created to store all the project-related information for the 
 
 - `admin & others`: This folder contains proposals, administrative documents, and any other related materials.
 
-For those interested in this project, I have put the proposal up front so you can have a read and get a rough impression. If you have any questions or suggestions, feel free to email me: haoyangc3@student.unimelb.edu.au
+For those interested in this project, I have put the proposal and introduction slides up front so you can have a rough idea of what we are doing. If you have any questions or suggestions, feel free to email me: haoyangc3@student.unimelb.edu.au
 
 ## Contributing
 
